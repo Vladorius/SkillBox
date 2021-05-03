@@ -1,7 +1,7 @@
 while True:
 	
 	operation = input("Введите операцию: ")
-	if operation == '+', '-', '*', '/':
+	if operation == '+', or operation == '-', or operation == '*', or operation == '/':
 		break
 	else: print('Такой операции не существует. Попробуйте еще раз.')
 a = int(input("Введите первое число: "))
