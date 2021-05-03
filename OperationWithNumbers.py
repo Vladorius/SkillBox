@@ -14,5 +14,3 @@ elif operation == "*":
 	print(a, "*", b, "=", a * b)
 elif operation == "/":
 	print(a, "/", b, "=", a / b)
-
-	# Комментарий который можно не сохранять
